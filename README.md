@@ -1,6 +1,6 @@
 [![CI](https://github.com/bombsquad-community/plugin-manager/actions/workflows/ci.yml/badge.svg)](https://github.com/bombsquad-community/plugin-manager/actions/workflows/ci.yml)
 
-# plugin-manager
+# plugin-manager - yeaaaa
 
 A plugin manager for the game - [Bombsquad](https://www.froemling.net/apps/bombsquad). Plugin manager is a plugin in itself,
 which makes further modding of your game more convenient by providing easier access to community created content.
